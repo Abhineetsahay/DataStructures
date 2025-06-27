@@ -9,12 +9,12 @@ This repository contains implementations of fundamental **Graph Algorithms** fro
 ✅ Undirected Graph Representation using Adjacency List  
 ✅ Breadth-First Search (BFS)  
 ✅ Depth-First Search (DFS)  
+✅ Cycle Detection (DFS approach)
 
 ## 🎯 Future Additions (Planned)
 
 ### 🔵 More Graph Algorithms:
 
-- ✅ Cycle Detection (BFS/DFS approach)
 - ✅ Topological Sort (for Directed Acyclic Graphs)
 - ✅ Shortest Path Algorithms:
   - Dijkstra's Algorithm (Weighted Graphs)
