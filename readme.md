@@ -10,6 +10,7 @@ This repository contains implementations of fundamental **Graph Algorithms** fro
 ✅ Breadth-First Search (BFS)  
 ✅ Depth-First Search (DFS)  
 ✅ Cycle Detection (DFS approach)
+✅ Stack implementation using Single Linked List 
 
 ## 🎯 Future Additions (Planned)
 
@@ -27,5 +28,5 @@ This repository contains implementations of fundamental **Graph Algorithms** fro
 - ✅ Arrays
 - ✅ Linked Lists
 - ✅ Trees (Binary Trees, Binary Search Trees)
-- ✅ Stacks & Queues
+- ✅ Queues
 
