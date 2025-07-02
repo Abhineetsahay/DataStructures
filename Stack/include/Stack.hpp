@@ -39,6 +39,7 @@ public:
         count++;
         newNode->next = head;
         head = newNode;
+        delete newNode;
     }
     const int top()
     {
@@ -59,7 +60,7 @@ public:
         if (this->isEmpty())
         {
 
-            cout << "\nStack is empty";
+            cout << "\nStack is empty\n";
             return INT_MIN;
         }
         int tp = this->top();

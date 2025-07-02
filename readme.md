@@ -10,14 +10,16 @@ This repository contains implementations of fundamental **Graph Algorithms** fro
 ✅ Breadth-First Search (BFS)  
 ✅ Depth-First Search (DFS)  
 ✅ Cycle Detection (DFS approach)
+✅ Topological Sort (for Directed Acyclic Graphs)
+✅ Stacks & Queues
 
 ## 🎯 Future Additions (Planned)
 
 ### 🔵 More Graph Algorithms:
 
-- ✅ Topological Sort (for Directed Acyclic Graphs)
+
 - ✅ Shortest Path Algorithms:
-  - Dijkstra's Algorithm (Weighted Graphs)
+  - Dijkstra's Algorithm (Weighted Graphs) 
   - BFS for Unweighted Graphs
 
 ---
@@ -27,5 +29,4 @@ This repository contains implementations of fundamental **Graph Algorithms** fro
 - ✅ Arrays
 - ✅ Linked Lists
 - ✅ Trees (Binary Trees, Binary Search Trees)
-- ✅ Stacks & Queues
 

@@ -21,4 +21,6 @@ int main()
     cout << st.size() << '\n';
 
     cout << (st.isEmpty() ? "Stack is Empty" : "Stack is not Empty") << '\n';
+    
+    return 0;
 }
