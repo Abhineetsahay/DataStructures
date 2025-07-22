@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+#ifndef GRAPH_HPP
+#define GRAPH_HPP
 class Graph
 {
 private:
@@ -40,6 +42,7 @@ private:
 public:
     // 0 means Undirected Graph (default value)
     // 1 means Directed Graph
+    // 2 means Weighted Directed Graph
 
     Graph(int typeOfGraph = 0)
     {
@@ -79,4 +82,5 @@ public:
         cout << '\n';
     }
 };
+#endif 
 

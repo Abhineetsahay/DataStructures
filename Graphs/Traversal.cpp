@@ -1,4 +1,5 @@
-#include "Graph.hpp"
+#include <bits/stdc++.h>
+#include "./include/Graph.hpp"
 #include "./include/Traversal.hpp"
 
 int main() {

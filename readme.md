@@ -1,4 +1,4 @@
-# Data Structures From Scratch - Graph Algorithms (C++)
+# 🚀 Data Structures From Scratch - Graph Algorithms (C++)
 
 This repository contains implementations of fundamental **Graph Algorithms** from scratch in **C++**, designed for learning purposes and coding interview preparation.
 
@@ -6,27 +6,34 @@ This repository contains implementations of fundamental **Graph Algorithms** fro
 
 ## 📦 Current Contents
 
-✅ Undirected Graph Representation using Adjacency List  
-✅ Breadth-First Search (BFS)  
-✅ Depth-First Search (DFS)  
-✅ Cycle Detection (DFS approach)
-✅ Topological Sort (for Directed Acyclic Graphs)
-✅ Stacks & Queues
+### 🔹 Graph Representations
 
-## 🎯 Future Additions (Planned)
+- ✅ Undirected Graph using Adjacency List
+- ✅ Directed Graph using Adjacency List
 
-### 🔵 More Graph Algorithms:
+### 🔹 Graph Traversal Algorithms
 
+- ✅ Breadth-First Search (BFS)  
+- ✅ Depth-First Search (DFS)
 
-- ✅ Shortest Path Algorithms:
-  - Dijkstra's Algorithm (Weighted Graphs) 
-  - BFS for Unweighted Graphs
+### 🔹 Graph Cycle Detection
+
+- ✅ Cycle Detection (using DFS)
+
+### 🔹 Graph Ordering
+
+- ✅ Topological Sort (for Directed Acyclic Graphs)
+
+### 🔹 Shortest Path Algorithms
+
+- ✅ Dijkstra's Algorithm (for Weighted Graphs)  
+- ✅ BFS-based Shortest Path (for Unweighted Graphs)
 
 ---
 
-### 🟢 Other Data Structures:
+## 🟢 Other Data Structures
 
-- ✅ Arrays
-- ✅ Linked Lists
-- ✅ Trees (Binary Trees, Binary Search Trees)
-
+- ✅ Arrays  
+- ✅ Linked Lists  
+- ✅ Trees (Binary Trees, Binary Search Trees)  
+- ✅ Stacks & Queues
