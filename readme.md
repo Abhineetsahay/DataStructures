@@ -1,39 +1,35 @@
-# 🚀 Data Structures From Scratch - Graph Algorithms (C++)
+# 🚀 Data Structures From Scratch - C++ Implementations
 
-This repository contains implementations of fundamental **Graph Algorithms** from scratch in **C++**, designed for learning purposes and coding interview preparation.
-
----
-
-## 📦 Current Contents
-
-### 🔹 Graph Representations
-
-- ✅ Undirected Graph using Adjacency List
-- ✅ Directed Graph using Adjacency List
-
-### 🔹 Graph Traversal Algorithms
-
-- ✅ Breadth-First Search (BFS)  
-- ✅ Depth-First Search (DFS)
-
-### 🔹 Graph Cycle Detection
-
-- ✅ Cycle Detection (using DFS)
-
-### 🔹 Graph Ordering
-
-- ✅ Topological Sort (for Directed Acyclic Graphs)
-
-### 🔹 Shortest Path Algorithms
-
-- ✅ Dijkstra's Algorithm (for Weighted Graphs)  
-- ✅ BFS-based Shortest Path (for Unweighted Graphs)
+This repository contains implementations of fundamental **Data Structures and Algorithms** from scratch in **C++**, designed for learning purposes and coding interview preparation.
 
 ---
 
-## 🟢 Other Data Structures
+## 📦 Implemented Modules
 
-- ✅ Arrays  
-- ✅ Linked Lists  
-- ✅ Trees (Binary Trees, Binary Search Trees)  
-- ✅ Stacks & Queues
+### 🔹 Graphs
+
+This module covers common graph algorithms and representations.
+
+- **Representations**
+  - ✅ Undirected Graph (Adjacency List)
+  - ✅ Directed Graph (Adjacency List)
+- **Traversal** (`Traversal.cpp`)
+  - ✅ Breadth-First Search (BFS)
+  - ✅ Depth-First Search (DFS)
+- **Cycle Detection** (`CycleDetect.cpp`)
+  - ✅ Cycle Detection in Undirected & Directed Graphs (using DFS)
+- **Shortest Path** (`Dijkstra.cpp`)
+  - ✅ Dijkstra's Algorithm (for Weighted Graphs)
+
+---
+
+### 🔹 Disjoint Set
+
+- ✅ Disjoint Set Union (DSU) / Union-Find (`DSU.cpp`)
+
+---
+
+### 🔹 Core Data Structures
+
+- ✅ Stack (`Stack/`)
+- ✅ Queue (`Queue/`)
