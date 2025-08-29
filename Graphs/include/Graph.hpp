@@ -42,7 +42,7 @@ private:
 public:
     // 0 means Undirected Graph (default value)
     // 1 means Directed Graph
-    // 2 means Weighted Directed Graph
+    // 2 means Directed Graph
 
     Graph(int typeOfGraph = 0)
     {
