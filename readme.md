@@ -33,3 +33,11 @@ This module covers common graph algorithms and representations.
 
 - ✅ Stack (`Stack/`)
 - ✅ Queue (`Queue/`)
+
+---
+
+### 🔹 BackTracking
+
+- ✅ Find all possible words of a dictionary in a Boogle
+
+---
